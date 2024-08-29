@@ -1,6 +1,6 @@
 target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
+#!.mvn/wrapper/maven-wrapper.jar
+#!**/src/main/**/target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
@@ -37,5 +37,5 @@ build/
 ### Mac OS ###
 .DS_Store
 
-### .jar
-target/
+### 
+.idea/
